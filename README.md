@@ -3,8 +3,7 @@
 Physically based rendering (PBR) lighting lab built with Three.js to understand HDR environment maps, reflections and tone mapping.
 
 ## Live Demo
-- Vercel: https://YOUR-VERCEL-URL.vercel.app/](https://threejs-hdr-lighting-lab.vercel.app/
-
+- Vercel: [https://threejs-hdr-lighting-lab.vercel.app/]
 ## What is this?
 This is a small interactive Three.js scene focused on **lighting through HDR environment maps**.
 Instead of using many lights, the scene uses an HDR image to simulate realistic ambient lighting and reflections on PBR materials.
